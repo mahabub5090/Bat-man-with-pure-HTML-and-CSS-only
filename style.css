@@ -1,0 +1,76 @@
+.batman-container {
+    height: 300px;
+    width: 500px;
+    background-color: orange;
+    margin: 100px auto 0;
+}
+
+.border {
+    background: black;
+    height: 200px;
+    width: 250px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.start-1 {
+   margin-left: -120px;
+}
+
+.start-2 {
+    margin-top: 110px;
+    margin-left: 50px;
+    transform: rotate(30deg);
+}
+
+.end-1 {
+    margin-left: 370px;
+}
+
+.end-2 {
+    margin-top: 110px;
+    margin-left: 200px;
+    transform: rotate(-30deg);
+}
+
+.head-cap {
+    background-color: black;
+    width: 150px;
+    height: 65px;
+    margin: 0 auto;
+    border-radius: 0 0 10px 10px;
+}
+
+.head {
+    height: 45px;
+    width: 45px;
+    background-color: orange;
+    margin: -40px auto;
+    border-radius: 5px;
+}
+
+.head-top-1 {
+    height: 15px;
+    width: 15px;
+    background-color: orange;
+    border-radius: 50%;
+    margin: -50px 220px;
+}
+
+.head-top-2{
+    height:15px;
+    width:15px;
+    background-color:orange;
+    border-radius:50%;
+    margin:35px 265px;
+}
+
+.shape-1 {
+    background-color: black;
+    height: 200px;
+    margin: 150px 0;
+}
+
+.batman {
+    background-color: black;
+}
